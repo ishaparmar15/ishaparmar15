@@ -13,7 +13,7 @@
 
 ## 📚 Projects
 - Sentiment Detector (In Progress)
-- Basic Quiz integrating it MySQL for inputs and calculating its score to display the participants
+- Developed a Python
 
 ## 🎯 Goals
 - Become a Software Engineer
