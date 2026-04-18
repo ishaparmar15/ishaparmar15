@@ -2,18 +2,20 @@
 
 ## 🚀 About Me
 - 🎓 BCA Student
-- 💻 Learning Software Engineering
-- 🌱 Currently learning C++ and Data Structures
+- 💻 Learning Data Science 
+- ❤️ Love Programming
 
 ## 🛠 Skills
-- HTML
-- C++
-- Basics of Data Science
+- 🌱 C prograaming
+- 🌱 Python
+- 🌱 C++
+- 🌱 MySQL
 
 ## 📚 Projects
 - Sentiment Detector (In Progress)
-- Music Recommender (Planned)
+- Basic Quiz integrating it MySQL for inputs and calculating its score to display the participants
 
 ## 🎯 Goals
 - Become a Software Engineer
-- Improve English Communication
+- Participate in Hackathon
+- Want to work for Google
