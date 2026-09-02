@@ -16,7 +16,7 @@ I’m a curious developer who loves turning **real-world problems into practical
 * ☁️ Deployment & Cloud Technologies
 
 ### 🛠️ Projects
-**SentiPulse AI** — An AI-powered sentiment analysis platform designed to understand customer feedback and help businesses identify patterns, strengths, and pain points.
+**SentiPulse AI** - An AI-powered sentiment analysis platform designed to understand customer feedback and help businesses identify patterns, strengths, and pain points.
 
 I’m currently exploring ideas around **AI-powered competency assessment and personal mentoring**, with the goal of helping people identify skill gaps through practical tasks and prepare for careers, interviews, internships, and exams.
 
