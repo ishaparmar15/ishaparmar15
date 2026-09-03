@@ -18,9 +18,9 @@ I’m a curious developer who loves turning **real-world problems into practical
 ### 🛠️ Projects
 **SentiPulse AI** - An AI-powered sentiment analysis platform designed to understand customer feedback and help businesses identify patterns, strengths, and pain points.
 
+### 🌱 Currently Learning
 I’m currently exploring ideas around **AI-powered competency assessment and personal mentoring**, with the goal of helping people identify skill gaps through practical tasks and prepare for careers, interviews, internships, and exams.
 
-### 🌱 Currently Learning
 I'm continuously learning by **building, experimenting, breaking things, fixing them, and building again.**
 > *I don't just want to learn technology. I want to use it to solve problems that actually matter.*
 
